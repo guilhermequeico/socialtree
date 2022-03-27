@@ -1,0 +1,32 @@
+.user-link .link {
+    display: block;
+
+    width: 326px;
+    height: 49px;
+
+    margin-bottom: 16px;
+    margin-left: auto;
+    margin-right: auto;
+   
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--purple);
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    line-height: 49px;
+
+    border: 2px solid var(--purple);
+    border-radius: 4px;
+
+    transition: 300ms ease-in-out;
+}
+
+.user-link .link:nth-child(4) {
+    margin-bottom: 0;
+}
+
+.user-link .link:hover {
+    background-color: var(--purple);
+    color: var(--body-bg-color);
+}

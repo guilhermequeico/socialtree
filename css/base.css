@@ -1,0 +1,11 @@
+:root {
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+}
+
+body {
+    height: 100vh;
+    
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--body-bg-color);
+}

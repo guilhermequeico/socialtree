@@ -1,0 +1,31 @@
+.user-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-bottom: 33px;
+}
+
+.user-profile .photo {
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+
+    border: 2px solid var(--purple);
+    border-radius: 50%;
+}
+
+.user-profile .name {
+    margin-top: 15px;
+    
+    font-size: 16px;
+    font-weight: 300;
+    color: var(--purple);
+    text-decoration: none;
+
+    transition: .3s ease-in-out;
+}
+
+.user-profile .name:hover {
+    transform: scale(1.1);
+}

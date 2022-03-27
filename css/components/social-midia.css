@@ -1,0 +1,20 @@
+.social-midia ul {
+    display: flex;
+    justify-content: space-between;
+
+    width: 236px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 68px;
+
+    list-style: none;
+}
+
+.social-midia .action img {
+    transition: .2s ease-in-out; 
+}
+
+.social-midia .action img:hover {
+    transform: scale(1.5);
+}
