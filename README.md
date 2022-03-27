@@ -13,9 +13,9 @@
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=BB99DD&labelColor=">
   
-  <img src="https://img.shields.io/github/forks/guilhermequeico/musicdot?label=forks&message=MIT&color=BB99DD&labelColor=" alt="Forks">
+  <img src="https://img.shields.io/github/forks/guilhermequeico/socialtree?label=forks&message=MIT&color=BB99DD&labelColor=" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/guilhermequeico/musicdot?label=stars&message=MIT&color=BB99DD&labelColor=" alt="Stars">
+  <img src="https://img.shields.io/github/stars/guilhermequeico/socialtree?label=stars&message=MIT&color=BB99DD&labelColor=" alt="Stars">
 </p>
 
 <br>
