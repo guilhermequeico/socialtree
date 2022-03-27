@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=BB99DD&labelColor=" alt="PRs welcome!">
+  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=BB99DD&labelColor=FAF7FD" alt="PRs welcome!">
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=BB99DD&labelColor=">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=BB99DD&labelColor=FAF7FD">
   
-  <img src="https://img.shields.io/github/forks/guilhermequeico/socialtree?label=forks&message=MIT&color=BB99DD&labelColor=" alt="Forks">
+  <img src="https://img.shields.io/github/forks/guilhermequeico/socialtree?label=forks&message=MIT&color=BB99DD&labelColor=FAF7FD" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/guilhermequeico/socialtree?label=stars&message=MIT&color=BB99DD&labelColor=" alt="Stars">
+  <img src="https://img.shields.io/github/stars/guilhermequeico/socialtree?label=stars&message=MIT&color=BB99DD&labelColor=FAF7FD" alt="Stars">
 </p>
 
 <br>
