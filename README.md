@@ -42,7 +42,7 @@ Social Tree é uma página que pode ser usada por perfis nas redes sociais para 
 
 Quer dar uma olhadinha de como ficou?
 
-Acesse: [SocialTree](https://guilhermequeico.github.io/socialtree/:target="_blank")
+Acesse: [SocialTree](https://guilhermequeico.github.io/socialtree/)
 
 ## 🚀 Como executar
 
