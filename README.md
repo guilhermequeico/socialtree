@@ -36,13 +36,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Social Tree é uma página que pode ser usada por perfis nas redes socias para direcionar o usuário para um local escolhido.
+Social Tree é uma página que pode ser usada por perfis nas redes sociais para direcionar o usuário para um local escolhido.
 
 ## 🧐 Demo
 
 Quer dar uma olhadinha de como ficou?
 
-Acesse: [SocialTree](https://guilhermequeico.github.io/socialtree/)
+Acesse: [SocialTree](https://guilhermequeico.github.io/socialtree/:target="_blank")
 
 ## 🚀 Como executar
 
