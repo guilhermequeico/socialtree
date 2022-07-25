@@ -5,6 +5,7 @@
 }
 
 .profile-photo .nickname {
+    padding-top: 1.5rem;
     font-size: 1.6rem;
     font-weight: 300;
     line-height: 2.4rem;
