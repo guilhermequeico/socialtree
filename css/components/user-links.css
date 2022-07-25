@@ -1,0 +1,14 @@
+.user-links {
+    display: block;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: 1.6rem;
+    font-weight: 600;
+    line-height: 2.4rem;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: var(--purple);
+    border: .2rem solid var(--purple);
+    border-radius: .4rem;
+}
