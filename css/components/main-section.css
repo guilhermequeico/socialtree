@@ -1,0 +1,10 @@
+.main-section {
+    padding-top: 3.3rem;
+    padding-bottom: 6.8rem;
+}
+
+.main-section .navigation {
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+}
