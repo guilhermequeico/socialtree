@@ -1,0 +1,12 @@
+.profile-photo .photo {
+    padding: .4rem;
+    border-radius: 50%;
+    border: 2px solid var(--purple);
+}
+
+.profile-photo .nickname {
+    font-size: 1.6rem;
+    font-weight: 300;
+    line-height: 2.4rem;
+    color: var(--purple);
+}
