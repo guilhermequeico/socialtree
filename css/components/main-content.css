@@ -1,0 +1,8 @@
+.main-content {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: calc((100% - 300px) / 2);
+    padding-right: calc((100% - 300px) / 2);
+}
