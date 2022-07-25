@@ -3,6 +3,10 @@
     --purple: #BB99DD;
 }
 
+html {
+    font-size: 62.5%;
+}
+
 body {    
     font-family: 'Poppins', sans-serif;
     background-color: var(--body-bg-color);
